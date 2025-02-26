@@ -15,123 +15,75 @@ interface Arizona {
 export class ArizonaComponent {
   arizona: Arizona[] = [
     {
-      nev: 'Jalapeño arizona',
-      image: './assets/arizonaImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Arizona Marvel LXR Hero Hydration Lemon Lime 473ml',
+      image: './assets/arizona/Arizona Marvel LXR Hero Hydration Lemon Lime 473ml.jpg',
+      ar: 2200,
       darab: 1
     },
     {
-      nev: 'BBQ ízű arizona',
-      image: './assets/arizonaImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Arizona Marvel LXR Hero Hydration Peach Mango 473ml',
+      image: './assets/arizona/Arizona Marvel LXR Hero Hydration Peach Mango 473ml.jpg',
+      ar: 2200,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Arizona Cherry Lime Rickey 650ml',
+      image: './assets/arizona/Arizona Cherry Lime Rickey 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Arizona Frost Chillzicle 650ml',
+      image: './assets/arizona/Arizona Frost Chillzicle 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Arizona Green Tea with Ginseng and Honey 650ml',
+      image: './assets/arizona/Arizona Green Tea with Ginseng and Honey 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Arizona Arnold Palmer Half & Half Iced Tea Lemonade 650ml',
+      image: './assets/arizona/Arizona Arnold Palmer Half & Half Iced Tea Lemonade 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Steak.jpg',
-      ar: 600,
+      nev: 'Arizona Mucho Mango 650ml',
+      image: './assets/arizona/Arizona Mucho Mango 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Puff.jpg',
-      ar: 600,
+      nev: 'Arizona Watermelon 650ml',
+      image: './assets/arizona/Arizona Watermelon 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Arizona Fruit Punch 650ml',
+      image: './assets/arizona/Arizona Fruit Punch 650ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Arizona Blueberry White Tea 500ml',
+      image: './assets/arizona/Arizona Blueberry White Tea 500ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotPf.jpg',
-      ar: 600,
+      nev: 'Arizona Pomegranate Green Tea 500ml',
+      image: './assets/arizona/Arizona Pomegranate Green Tea 500ml.jpg',
+      ar: 990,
       darab: 1
     },
     {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres arizona',
-      image: './assets/arizonaImg/Beef.jpg',
-      ar: 600,
+      nev: 'Arizona Cowboy Cocktail Kiwi Strawberry 500ml',
+      image: './assets/arizona/Arizona Cowboy Cocktail Kiwi Strawberry 500ml.jpg',
+      ar: 990,
       darab: 1
     }
   ];

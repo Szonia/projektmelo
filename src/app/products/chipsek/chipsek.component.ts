@@ -39,6 +39,60 @@ throw new Error('Method not implemented.');
       darab: 1
     },
     {
+      nev: 'Pringles Original 165g',
+      image: './assets/chipsImg/Pringles Original 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Sour Cream & Onion 165g',
+      image: './assets/chipsImg/Pringles Sour Cream & Onion 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Hot & Spicy 165g',
+      image: './assets/chipsImg/Pringles Hot & Spicy 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Ranch 165g',
+      image: './assets/chipsImg/Pringles Ranch 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Jalapeño 165g',
+      image: './assets/chipsImg/Pringles Jalapeño 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Pizza 165g',
+      image: './assets/chipsImg/Pringles Pizza 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Fűszeres Pringles Cheddar Cheese 165g',
+      image: './assets/chipsImg/Pringles Cheddar Cheese 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Scorchin Sour Cream & Onion 165g',
+      image: './assets/chipsImg/Pringles Scorchin Sour Cream & Onion 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
+      nev: 'Pringles Loaded Potato Skins 165g',
+      image: './assets/chipsImg/Pringles Loaded Potato Skins 165g.jpg',
+      ar: 1699,
+      darab: 1
+    },
+    {
       nev: 'Chazz Flaming Ghost Potato Chips 50g',
       image: './assets/chipsImg/Chazz Flaming Ghost Potato Chips 50g.jpg',
       ar: 990,

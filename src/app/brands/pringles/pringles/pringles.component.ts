@@ -15,123 +15,69 @@ interface pringles {
 export class pringlesComponent {
   pringles: pringles[] = [
     {
-      nev: 'Jalapeño pringles',
-      image: './assets/pringlesImg/TKZombie.jpg',
-      ar: 500,
+      nev: 'Pringles Texas BBQ Sauce 165g',
+      image: './assets/pringles/Pringles Texas BBQ Sauce 165g.jpg',
+      ar: 1049,
       darab: 1
     },
     {
-      nev: 'BBQ ízű pringles',
-      image: './assets/pringlesImg/TKWaves.jpg',
-      ar: 550,
+      nev: 'Pringles Paprika 130g',
+      image: './assets/pringles/Pringles Paprika 130g.jpg',
+      ar: 1049,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/TKNitro.jpg',
-      ar: 600,
+      nev: 'Pringles Original 165g',
+      image: './assets/pringles/Pringles Original 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/TKFajita.jpg',
-      ar: 600,
+      nev: 'Pringles Sour Cream & Onion 165g',
+      image: './assets/pringles/Pringles Sour Cream & Onion 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/TKChili.jpg',
-      ar: 600,
+      nev: 'Pringles Hot & Spicy 165g',
+      image: './assets/pringles/Pringles Hot & Spicy 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/TKCheese.jpg',
-      ar: 600,
+      nev: 'Pringles Ranch 165g',
+      image: './assets/pringles/Pringles Ranch 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Steak.jpg',
-      ar: 600,
+      nev: 'Pringles Jalapeño 165g',
+      image: './assets/pringles/Pringles Jalapeño 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Puff.jpg',
-      ar: 600,
+      nev: 'Pringles Pizza 165g',
+      image: './assets/pringles/Pringles Pizza 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/PrPap.jpg',
-      ar: 600,
+      nev: 'Fűszeres Pringles Cheddar Cheese 165g',
+      image: './assets/pringles/Pringles Cheddar Cheese 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/PrBBQ.jpg',
-      ar: 600,
+      nev: 'Pringles Scorchin Sour Cream & Onion 165g',
+      image: './assets/pringles/Pringles Scorchin Sour Cream & Onion 165g.jpg',
+      ar: 1699,
       darab: 1
     },
     {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/HotPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/HotCr.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/HotCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Chipito.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/ChiliCheese.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Chili.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Chedarpop.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/ChedarPf.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Chedar.jpg',
-      ar: 600,
-      darab: 1
-    },
-    {
-      nev: 'Fűszeres pringles',
-      image: './assets/pringlesImg/Beef.jpg',
-      ar: 600,
+      nev: 'Pringles Loaded Potato Skins 165g',
+      image: './assets/pringles/Pringles Loaded Potato Skins 165g.jpg',
+      ar: 1699,
       darab: 1
     }
   ];
